@@ -1,0 +1,54 @@
+Dimension of dictionary: (692, 10000)
+2020-10-05
+New model accuracy: 0.7971014492753623     
+SW model accuracy: 0.782608695652174       
+Original model accuracy: 0.7971014492753623
+
+
+Elapsed time for incremental model train: 0.44085049629211426
+Elapsed time for sliding window model train: 0.3201143741607666
+
+2020-10-12
+New model accuracy: 0.7857142857142857
+SW model accuracy: 0.8142857142857143
+Original model accuracy: 0.8142857142857143
+
+
+Elapsed time for incremental model train: 0.3979654312133789
+Elapsed time for sliding window model train: 0.28820371627807617
+
+2020-11-07
+New model accuracy: 0.8695652173913043
+SW model accuracy: 0.8260869565217391
+Original model accuracy: 0.8260869565217391
+
+
+Elapsed time for incremental model train: 0.33905577659606934
+Elapsed time for sliding window model train: 0.27725982666015625
+
+2020-11-16
+New model accuracy: 0.8260869565217391
+SW model accuracy: 0.8405797101449275
+Original model accuracy: 0.6956521739130435
+
+
+Elapsed time for incremental model train: 0.44381284713745117
+Elapsed time for sliding window model train: 0.27429747581481934
+
+2020-12-12
+New model accuracy: 0.7391304347826086
+SW model accuracy: 0.7391304347826086
+Original model accuracy: 0.782608695652174
+
+
+Elapsed time for incremental model train: 0.46575355529785156
+Elapsed time for sliding window model train: 0.2672848701477051
+
+2021-01-06
+New model accuracy: 0.8405797101449275
+SW model accuracy: 0.782608695652174
+Original model accuracy: 0.8260869565217391
+
+
+Elapsed time for incremental model train: 0.4777231216430664
+Elapsed time for sliding window model train: 0.2762620449066162
