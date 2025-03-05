@@ -6,6 +6,8 @@ UniPi Data Mining Project
 
 The 2020 US Presidential Election was marked by intense competition between **Donald Trump** (Republican) and **Joe Biden** (Democrat). During this period, social media platforms, especially **Twitter**, became a hub for political discourse. This project focuses on **mining and analyzing Twitter users' stance** in relation to both candidates, leveraging natural language processing (NLP) and machine learning techniques to detect favorability trends over time.
 
+![image](https://github.com/user-attachments/assets/c30b687c-00f6-4608-b17f-b9919c0bdd9e)
+
 ## Features
 
 - **Data Collection**: Scrapes tweets and replies mentioning the candidates.
@@ -13,6 +15,11 @@ The 2020 US Presidential Election was marked by intense competition between **Do
 - **Stance Classification**: Labels tweets as **In Favor** or **Not in Favor** using machine learning models.
 - **Trend Analysis**: Tracks users' stance shifts over key election events.
 - **Adaptive Models**: Compares static, incremental, and sliding window models for improved accuracy.
+
+## Technologies used
+- **Pandas**: for efficient for data processing and modeling
+- **Scikit-learn**: library for data processing and machine learning models.
+- **Microsoft Power BI**: For data rapresentation.
 
 ## Dataset
 
